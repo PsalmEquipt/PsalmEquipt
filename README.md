@@ -15,6 +15,9 @@ THE WAY INTERNATIONAL Biblical Research, Teaching, and Fellowship Ministry
 Founded 1942
 
 Website www.theway.org
+
+More Info psalmequipt.nichesite.org
+
 PsalmEquipt/PsalmEquipt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
