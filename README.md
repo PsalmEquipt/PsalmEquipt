@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PsalmEquipt
+Hi, I’m @PsalmEquipt
 
-<!---For several years, I've trusted God in matters big and small, and He has never let me down. He's in the miracle business every day and will not do less than His Word. Perhaps like Moses, you'd like to find out more.
+For several years, I've trusted God in matters big and small, and He has never let me down. He's in the miracle business every day and will not do less than His Word. Perhaps like Moses, you'd like to find out more.
 
 And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed. And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt. Exodus 3:2,3
 
@@ -18,6 +18,3 @@ Website www.theway.org
 
 More Info psalmequipt.nichesite.org
 
-PsalmEquipt/PsalmEquipt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
