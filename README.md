@@ -16,5 +16,5 @@ Founded 1942
 
 Website www.theway.org
 
-More Info psalmequipt.nichesite.org
+More Info http://psalmequipt.nichesite.org
 
